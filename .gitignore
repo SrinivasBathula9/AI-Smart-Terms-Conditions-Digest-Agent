@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.env.*
+
+# Frontend
+node_modules/
+dist/
+.DS_Store
+
+# Static Assets
+backend/audio/*.mp3
+backend/audio/*.wav

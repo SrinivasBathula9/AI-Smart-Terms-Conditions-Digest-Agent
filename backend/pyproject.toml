@@ -1,0 +1,26 @@
+[project]
+name = "smart-terms-backend"
+version = "0.1.0"
+description = "Backend for Smart Terms Agent"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+    "pdfplumber",
+    "python-docx",
+    "beautifulsoup4",
+    "requests",
+    "langgraph",
+    "langchain",
+    "google-generativeai",
+    "pydantic",
+    "sqlalchemy",
+    "python-dotenv",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest",
+]
