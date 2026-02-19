@@ -6,11 +6,11 @@
 
 | Dashboard Overview | Multi-Lingual Selection |
 | :---: | :---: |
-| ![Dashboard](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results.png) | ![Language Selection](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results0.png) |
+| ![Dashboard](./Results.png) | ![Language Selection](./Results0.png) |
 
 | Analysis Detail | Mobile/Responsive view |
 | :---: | :---: |
-| ![Analysis](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results1.png) | ![Responsive](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results2.png) |
+| ![Analysis](./Results1.png) | ![Responsive](./Results2.png) |
 
 ---
 
