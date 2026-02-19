@@ -2,6 +2,16 @@
 
 **SmartTermsDigest** is an agentic AI application designed to empower users by simplifying complex legal documents, Terms of Service (ToS), and Privacy Policies. Using a multi-agent orchestration pattern, it analyzes documents for risks, fairness, and key takeaways, providing both a visual dashboard and a multi-lingual audio digest.
 
+## 🚀 Visual Results
+
+| Dashboard Overview | Multi-Lingual Selection |
+| :---: | :---: |
+| ![Dashboard](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results.png) | ![Language Selection](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results0.png) |
+
+| Analysis Detail | Mobile/Responsive view |
+| :---: | :---: |
+| ![Analysis](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results1.png) | ![Responsive](file:///d:/ML/Agentic%20AI/AI_SmartTermsDigest/Results2.png) |
+
 ---
 
 ## 💼 Business Case
